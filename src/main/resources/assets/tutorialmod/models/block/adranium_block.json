@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "tutorialmod:blocks/adranium_block_texture",
+    "up": "tutorialmod:blocks/adranium_block_texture",
+    "north": "tutorialmod:blocks/adranium_block_texture",
+    "east": "tutorialmod:blocks/adranium_block_texture",
+    "south": "tutorialmod:blocks/adranium_block_texture",
+    "west": "tutorialmod:blocks/adranium_block_texture",
+    "particle": "tutorialmod:blocks/adranium_block_texture"
+  }
+}
