@@ -9,13 +9,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "adranium_block"
+    },
+    {
+      "name": "TaiBiome",
+      "type": "biome",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tai_biome"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.tutorialmod.adranium_block": "Adranium Block"
+      "block.tutorialmod.adranium_block": "Adranium Block",
+      "biome.tutorialmod.tai_biome": "Tai Biome"
     }
   },
   "foldersRoot": {
